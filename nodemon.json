@@ -1,0 +1,23 @@
+{
+  "restartable": "rs",
+  "colours": true,
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules",
+    "dist",
+    "out",
+    "neardev"
+  ],
+  "execMap": {
+    "ts": "npm run start",
+    "jsx": "npm run start",
+    "rs": "npm run start"
+  },
+  "verbose": true,
+  "watch": [
+    "contract/src/",
+    "frontend/"
+  ],
+  "runOnChangeOnly": false,
+  "ext": "ts js json rs html jsx"
+}

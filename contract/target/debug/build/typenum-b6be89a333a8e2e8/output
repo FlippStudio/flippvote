@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/glows/Desktop/flippvote2/contract/target/debug/build/typenum-b6be89a333a8e2e8/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/glows/Desktop/flippvote2/contract/target/debug/build/typenum-b6be89a333a8e2e8/out/op.rs
